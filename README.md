@@ -1,4 +1,4 @@
-### Dfs Abir Vai
+### Dfs: Abir Vai
 * https://codeforces.com/blog/entry/68138
 ### Prokash
 * https://github.com/lnishan/awesome-competitive-programming
@@ -29,7 +29,7 @@
 * https://codeforces.com/blog/entry/15729
 * https://codeforces.com/blog/entry/70018
 * https://codeforces.com/blog/entry/55274
-* https://www.viva64.com/en/b/0533/          #ID0EMFQO
+* https://www.viva64.com/en/b/0533/    #ID0EMFQO
 * https://codeforces.com/blog/entry/10124
 * https://codeforces.com/blog/entry/57729
 * https://codeforces.com/blog/entry/64218
