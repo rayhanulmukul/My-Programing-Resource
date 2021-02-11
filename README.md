@@ -33,7 +33,32 @@
 * https://codeforces.com/blog/entry/10124
 * https://codeforces.com/blog/entry/57729
 * https://codeforces.com/blog/entry/64218
+### Github
+* https://github.com/hasancse91
+* https://github.com/binhnguyennus
+* https://github.com/anitaa1990
+* https://github.com/iammert?tab=repositories
+* https://github.com/kantuni?tab=repositories
+### Bangla Writters
+* http://www.shafaetsplanet.com
+* http://www.subeen.com
+* http://www.sushantapaul.com
+* http://www.engineeringbookspdf.com
+* http://www.jhankarmahbub.com/
+* http://libgen.is/
 ### Only Alone
 * https://baps-bgd.github.io/camp/
-* https://github.com/kantuni/Codeforces
 * https://codeforces.com/blog/entry/13529
+### Programing Websight
+* https://www.javatpoint.com
+* https://www.tutorialspoint.com***
+* https://www.geeksforgeeks.org ***
+* https://beginnersbook.com ***
+* http://www.sololearn.com ***
+* http://www.techcrashcourse.com ***
+* http://www.w3resource.com ***
+* www.leetcode.com ***
+* www.interviewbit.com ***
+* www.pramp.com ***
+* http://cplusplus.com/reference/clibrary/ -STL_ 
+* moc interview
