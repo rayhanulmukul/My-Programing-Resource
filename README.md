@@ -40,6 +40,8 @@
 * https://github.com/Munmud/problem-tutorials.git
 * https://github.com/iammert?tab=repositories
 * https://github.com/kantuni?tab=repositories
+* https://github.com/karansinghgit
+* 
 ### Bangla Writters
 * http://www.shafaetsplanet.com
 * http://www.subeen.com
