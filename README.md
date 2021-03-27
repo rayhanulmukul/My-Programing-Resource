@@ -1,11 +1,3 @@
-### DFS & GRAPH
-* https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh
-* https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/
-* https://www.youtube.com/watch?v=Lax2okU8yM8
-* https://www.programiz.com/dsa/graph-dfs#:~:text=%20The%20DFS%20algorithm%20works%20as%20follows%3A%20,3%20until%20the%20stack%20is%20empty.%20More%20
-
-### Dfs: Abir Vai
-* https://codeforces.com/blog/entry/68138
 ### Prokash
 * https://github.com/lnishan/awesome-competitive-programming
 * https://www.dcc.fc.up.pt/~pribeiro/aulas/pc1819/awesome/index.html
